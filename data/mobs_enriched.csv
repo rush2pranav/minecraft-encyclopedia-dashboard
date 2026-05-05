@@ -1,0 +1,79 @@
+ID,name,behaviorTypes,spawnBehavior,healthPoints,maxDamage,debutDate,minecraftVersion,reproductiveRequirement,mobID_x,num_biomes,mobID_y,food_drops,ingredient_drops,tool_drops,total_drops,danger_score,threat_tier
+1,sniffer_egg,Peaceful,Player Summoned,0,0.0,2023-06-07T00:00:00,1.20.0,,1.0,1,,0,1,0,1,0.0,Passive
+2,turtle_egg,Peaceful,Player Summoned,0,0.0,2018-07-18T00:00:00,1.13.0,,2.0,1,,0,1,0,1,0.0,Passive
+3,bat,Peaceful,Random,6,0.0,2012-10-25T00:00:00,1.4.2,,3.0,40,,0,0,0,0,0.0,Passive
+4,blaze,Hostile,On Load,20,6.0,2011-11-18T00:00:00,1.0.0,,4.0,4,,0,1,0,1,120.0,Medium Threat
+5,chicken,Peaceful,Random,4,0.0,2011-11-18T00:00:00,1.0.0,Wheat Seeds,5.0,44,5.0,1,3,0,4,0.0,Passive
+6,dolphin,Conditional,Random,10,3.0,2018-07-18T00:00:00,1.13.0,,6.0,5,6.0,1,0,0,1,30.0,Low Threat
+7,endermite,Hostile,Player Summoned,8,2.0,2014-09-02T00:00:00,1.8.0,,,0,,0,0,0,0,16.0,Low Threat
+8,guardian,Hostile,On Load,30,6.0,2014-09-02T00:00:00,1.8.0,,8.0,4,8.0,1,3,0,4,180.0,Medium Threat
+9,guardian_elder,Hostile,On Load,80,8.0,2014-09-02T00:00:00,1.8.0,,9.0,4,9.0,1,2,0,3,640.0,High Threat
+10,phantom,Hostile,Night,20,2.0,2018-07-18T00:00:00,1.13.0,,10.0,97,,0,1,0,1,40.0,Low Threat
+11,silverfish,Hostile,On Load,8,1.0,2011-11-18T00:00:00,1.0.0,,11.0,1,,0,0,0,0,8.0,Low Threat
+12,snow_golem,Peaceful,Player Summoned,4,3.0,2011-11-18T00:00:00,1.0.0,,,0,,0,1,0,1,12.0,Low Threat
+13,wandering_trader,Peaceful,Random,20,0.0,2019-04-23T00:00:00,1.14.0,,,0,,0,0,0,0,0.0,Passive
+14,witch,Hostile,Night,26,6.0,2012-10-25T00:00:00,1.4.2,,14.0,44,,0,7,0,7,156.0,Medium Threat
+15,allay,Peaceful,Random,20,0.0,2022-06-07T00:00:00,1.19.0,,15.0,1,,0,0,0,0,0.0,Passive
+16,axolotl,Peaceful,Random,14,2.0,2021-06-08T00:00:00,1.17.0,Bucket of Tropical Fish,16.0,1,,0,0,0,0,28.0,Low Threat
+17,polarbear,Conditional,Random,30,6.0,2016-06-08T00:00:00,1.10.0,,17.0,5,17.0,2,0,0,2,180.0,Medium Threat
+18,bee,Conditional,Random,10,2.0,2019-12-10T00:00:00,1.15.0,Dandelion,18.0,9,,0,0,0,0,20.0,Low Threat
+19,camel,Peaceful,Random,32,0.0,2023-06-07T00:00:00,1.20.0,Cactus,19.0,1,,0,0,0,0,0.0,Passive
+20,cat,Peaceful,Random,10,3.0,2012-03-01T00:00:00,1.2.1,Raw Salmon,20.0,8,,0,1,0,1,30.0,Low Threat
+21,cow,Peaceful,Random,10,0.0,2011-11-18T00:00:00,1.0.0,Wheat,21.0,44,21.0,1,1,0,2,0.0,Passive
+22,mooshroom,Peaceful,Random,10,0.0,2011-11-18T00:00:00,1.0.0,Wheat,22.0,1,22.0,1,2,0,3,0.0,Passive
+23,creeper,Hostile,Night,20,43.0,2011-11-18T00:00:00,1.0.0,,23.0,44,,0,2,14,16,860.0,High Threat
+24,dragon,Hostile,Player Summoned,200,10.0,2011-11-18T00:00:00,1.0.0,,24.0,5,,0,0,0,0,2000.0,High Threat
+25,enderman,Conditional,Night,40,7.0,2011-11-18T00:00:00,1.0.0,,25.0,55,,0,1,0,1,280.0,Medium Threat
+26,cod,Peaceful,Random,3,0.0,2018-07-18T00:00:00,1.13.0,,26.0,7,26.0,1,2,0,3,0.0,Passive
+27,pufferfish,Peaceful,Random,3,3.0,2018-07-18T00:00:00,1.13.0,,27.0,3,,0,3,0,3,9.0,Low Threat
+28,salmon,Peaceful,Random,3,0.0,2018-07-18T00:00:00,1.13.0,,28.0,6,28.0,1,1,0,2,0.0,Passive
+29,tropical fish,Peaceful,Random,3,0.0,2018-07-18T00:00:00,1.13.0,,29.0,5,29.0,1,2,0,3,0.0,Passive
+30,fox,Peaceful,Random,10,2.0,2019-04-23T00:00:00,1.14.0,Sweet Berries,30.0,5,,0,0,0,0,20.0,Low Threat
+31,frog,Peaceful,Random,10,0.0,2022-06-07T00:00:00,1.19.0,SlimeBall,31.0,2,,0,0,0,0,0.0,Passive
+32,ghast,Hostile,Random,10,17.0,2011-11-18T00:00:00,1.0.0,,32.0,3,,0,2,0,2,170.0,Medium Threat
+33,goat,Peaceful,Random,10,2.0,2021-06-08T00:00:00,1.17.0,Wheat,33.0,3,,0,1,1,2,20.0,Low Threat
+34,hoglin,Hostile,Random,40,8.0,2020-06-23T00:00:00,1.16.0,Crimson Fungi,34.0,1,34.0,1,1,0,2,320.0,Medium Threat
+35,zoglin,Hostile,Random,40,8.0,2020-06-23T00:00:00,1.16.0,,,0,35.0,1,0,0,1,320.0,Medium Threat
+36,donkey,Peaceful,Random,15,0.0,2013-07-01T00:00:00,1.6.1,Golden Apple,36.0,6,,0,1,0,1,0.0,Passive
+37,horse,Peaceful,Random,15,0.0,2013-07-01T00:00:00,1.6.1,Golden Apple,37.0,5,,0,1,0,1,0.0,Passive
+38,mule,Peaceful,Random,15,0.0,2013-07-01T00:00:00,1.6.1,,,0,,0,1,0,1,0.0,Passive
+39,evoker,Hostile,On Load,24,9.0,2016-11-14T00:00:00,1.11.0,,39.0,1,,0,1,2,3,216.0,Medium Threat
+40,illusioner,Hostile,On Load,32,5.0,2017-06-07T00:00:00,1.12.0,,,0,,0,0,1,1,160.0,Medium Threat
+41,pillager,Hostile,On Load,24,4.0,2019-04-23T00:00:00,1.14.0,,,0,,0,0,1,1,96.0,Low Threat
+42,ravager,Hostile,On Load,100,12.0,2019-04-23T00:00:00,1.14.0,,,0,,0,0,1,1,1200.0,High Threat
+43,vex,Hostile,On Load,14,9.0,2016-11-14T00:00:00,1.11.0,,,0,,0,0,0,0,126.0,Medium Threat
+44,vindicator,Hostile,On Load,24,13.0,2016-11-14T00:00:00,1.11.0,,44.0,1,,0,1,1,2,312.0,Medium Threat
+45,iron_golem,Conditional,Player Summoned,100,22.0,2012-03-01T00:00:00,1.2.1,,45.0,8,,0,1,0,1,2200.0,Boss
+46,llama,Conditional,Random,15,1.0,2016-11-14T00:00:00,1.11.0,Hay Bale,46.0,4,,0,1,0,1,15.0,Low Threat
+47,panda,Conditional,Random,20,6.0,2019-04-23T00:00:00,1.14.0,Bamboo,47.0,3,,0,1,0,1,120.0,Medium Threat
+48,parrot,Peaceful,Random,6,0.0,2017-06-07T00:00:00,1.12.0,,48.0,3,,0,1,0,1,0.0,Passive
+49,pig,Peaceful,Random,10,0.0,2011-11-18T00:00:00,1.0.0,Carrot,49.0,44,49.0,1,0,0,1,0.0,Passive
+50,piglin,Conditional,Random,16,8.0,2020-06-23T00:00:00,1.16.0,,50.0,2,,0,0,6,6,128.0,Medium Threat
+51,piglin_brute,Hostile,Random,50,13.0,2020-06-23T00:00:00,1.16.2,,51.0,5,,0,0,1,1,650.0,High Threat
+52,zombified_piglin,Conditional,Random,20,8.0,2011-11-18T00:00:00,1.0.0,,52.0,2,52.0,1,2,4,7,160.0,Medium Threat
+53,killer rabbit,Hostile,Player Summoned,3,8.0,2014-09-02T00:00:00,1.8.0,Carrot,,0,53.0,1,2,0,3,24.0,Low Threat
+54,rabbit,Peaceful,Random,3,8.0,2014-09-02T00:00:00,1.8.0,Carrot,54.0,15,54.0,1,2,0,3,24.0,Low Threat
+55,sheep,Peaceful,Random,8,0.0,2011-11-18T00:00:00,1.0.0,Wheat,55.0,44,55.0,1,0,0,1,0.0,Passive
+56,shulker,Hostile,On Load,30,4.0,2016-02-29T00:00:00,1.9.0,,56.0,3,,0,1,0,1,120.0,Medium Threat
+57,skeleton,Hostile,Night,20,4.0,2011-11-18T00:00:00,1.0.0,,57.0,44,,0,1,2,3,80.0,Low Threat
+58,stray,Hostile,Night,20,5.0,2016-06-08T00:00:00,1.10.0,,58.0,3,,0,1,3,4,100.0,Low Threat
+59,wither_skeleton,Hostile,On Load,20,8.0,2012-10-25T00:00:00,1.4.2,,59.0,4,,0,2,1,3,160.0,Medium Threat
+60,magmacube,Hostile,Random,16,6.0,2011-11-18T00:00:00,1.0.0,,60.0,2,,0,1,0,1,96.0,Low Threat
+61,slime,Hostile,Random,16,4.0,2011-11-18T00:00:00,1.0.0,,61.0,44,,0,1,0,1,64.0,Low Threat
+62,sniffer,Peaceful,Player Summoned,14,0.0,2023-06-07T00:00:00,1.20.0,,62.0,1,,0,0,0,0,0.0,Passive
+63,cave_spider,Hostile,On Load,12,2.0,2011-11-18T00:00:00,1.0.0,,63.0,44,,0,2,0,2,24.0,Low Threat
+64,spider,Conditional,Night,16,2.0,2011-11-18T00:00:00,1.0.0,,64.0,44,,0,2,0,2,32.0,Low Threat
+65,glow_squid,Peaceful,Random,10,0.0,2021-06-08T00:00:00,1.17.0,,65.0,44,,0,1,0,1,0.0,Passive
+66,squid,Peaceful,Random,10,0.0,2011-11-18T00:00:00,1.0.0,,66.0,44,,0,1,0,1,0.0,Passive
+67,strider,Peaceful,Random,20,0.0,2020-06-23T00:00:00,1.16.0,Warped Fungus,67.0,4,,0,1,1,2,0.0,Passive
+68,tadpole,Peaceful,Random,6,0.0,2022-06-07T00:00:00,1.19.0,,68.0,2,,0,1,0,1,0.0,Passive
+69,big_sea_turtle,Peaceful,Random,30,0.0,2018-07-18T00:00:00,1.13.0,SeaGrass,69.0,1,,0,1,0,1,0.0,Passive
+70,villager,Peaceful,On Load,20,0.0,2019-04-23T00:00:00,1.14.0,Bed,70.0,8,,0,0,0,0,0.0,Passive
+71,warden,Hostile,Player Summoned,500,30.0,2022-06-07T00:00:00,1.19.0,,71.0,1,,0,1,0,1,15000.0,Boss
+72,wither,Hostile,Player Summoned,300,68.0,2012-10-25T00:00:00,1.4.2,,,0,,0,1,0,1,20400.0,Boss
+73,wolf,Conditional,Random,8,4.0,2011-11-18T00:00:00,1.0.0,Beef,73.0,6,,0,0,0,0,32.0,Low Threat
+74,wolf_tame,Peaceful,Player Summoned,20,4.0,2011-11-18T00:00:00,1.0.0,Beef,,0,,0,0,0,0,80.0,Low Threat
+75,drowned,Hostile,Night,20,11.0,2018-07-18T00:00:00,1.13.0,,75.0,12,75.0,1,2,3,6,220.0,Medium Threat
+76,husk,Hostile,Random,20,3.0,2016-06-08T00:00:00,1.10.0,,76.0,1,76.0,3,1,2,6,60.0,Low Threat
+77,zombie,Hostile,Night,20,3.0,2011-11-18T00:00:00,1.0.0,,77.0,44,77.0,3,1,26,30,60.0,Low Threat
+78,zombie_villager,Hostile,Night,20,3.0,2012-10-25T00:00:00,1.4.2,,78.0,44,78.0,3,1,26,30,60.0,Low Threat

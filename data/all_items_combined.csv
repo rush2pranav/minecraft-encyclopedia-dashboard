@@ -1,0 +1,827 @@
+item_name,item_category,primary_stat,stat_label,type,debutDate,minecraftVersion
+cooked_chicken,Food,6.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+cookie,Food,2.0,Hunger Restored,Plant,2011-11-18T00:00:00,1.0.0
+apple,Food,4.0,Hunger Restored,Plant,2011-11-18T00:00:00,1.0.0
+melon_slice,Food,2.0,Hunger Restored,Plant,2011-11-18T00:00:00,1.0.0
+milk_bucket,Food,0.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+mushroom_stew,Food,6.0,Hunger Restored,Plant,2011-11-18T00:00:00,1.0.0
+cooked_porkchop,Food,8.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+bread,Food,5.0,Hunger Restored,Plant,2011-11-18T00:00:00,1.0.0
+porkchop,Food,3.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+golden_apple,Food,4.0,Hunger Restored,Plant,2011-11-18T00:00:00,1.0.0
+cooked_beef,Food,8.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+cod,Food,2.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+chicken,Food,2.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+rotten_flesh,Food,4.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+beef,Food,3.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+cooked_cod,Food,5.0,Hunger Restored,Animal,2011-11-18T00:00:00,1.0.0
+cake,Food,1.0,Hunger Restored,Plant,2012-02-29T00:00:00,1.2.0
+carrot,Food,3.0,Hunger Restored,Plant,2012-10-25T00:00:00,1.4.2
+poisonous_potato,Food,2.0,Hunger Restored,Plant,2012-10-25T00:00:00,1.4.2
+baked_potato,Food,5.0,Hunger Restored,Plant,2012-10-25T00:00:00,1.4.2
+potato,Food,1.0,Hunger Restored,Animal,2012-10-25T00:00:00,1.4.2
+golden_carrot,Food,6.0,Hunger Restored,Plant,2012-10-25T00:00:00,1.4.2
+pumpkin_pie,Food,8.0,Hunger Restored,Plant,2012-10-25T00:00:00,1.4.2
+cooked_salmon,Food,6.0,Hunger Restored,Animal,2013-10-25T00:00:00,1.7.2
+tropical_fish,Food,1.0,Hunger Restored,Animal,2013-10-25T00:00:00,1.7.2
+salmon,Food,2.0,Hunger Restored,Animal,2013-10-25T00:00:00,1.7.2
+cooked_rabbit,Food,5.0,Hunger Restored,Animal,2014-09-02T00:00:00,1.8.0
+mutton,Food,2.0,Hunger Restored,Animal,2014-09-02T00:00:00,1.8.0
+cooked_mutton,Food,6.0,Hunger Restored,Animal,2014-09-02T00:00:00,1.8.0
+rabbit,Food,3.0,Hunger Restored,Animal,2014-09-02T00:00:00,1.8.0
+rabbit_stew,Food,10.0,Hunger Restored,Animal,2014-09-02T00:00:00,1.8.0
+beetroot,Food,1.0,Hunger Restored,Plant,2016-02-29T00:00:00,1.9.0
+chorus_fruit,Food,4.0,Hunger Restored,Plant,2016-02-29T00:00:00,1.9.0
+beetroot_soup,Food,6.0,Hunger Restored,Plant,2016-02-29T00:00:00,1.9.0
+dried_kelp,Food,1.0,Hunger Restored,Plant,2018-07-18T00:00:00,1.13.0
+suspicious_stew,Food,6.0,Hunger Restored,Animal,2019-04-23T00:00:00,1.14.0
+sweet_berries,Food,2.0,Hunger Restored,Plant,2019-04-23T00:00:00,1.14.0
+honey_bottle,Food,6.0,Hunger Restored,Animal,2019-12-10T00:00:00,1.15.0
+glow_berries,Food,2.0,Hunger Restored,Plant,2021-06-08T00:00:00,1.17.0
+amethyst_shard,Ingredient,,,Ingredient,2021-06-08T00:00:00,1.17.0
+angler_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+archer_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+arms_up_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+black_dye,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+blade_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+blaze_powder,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+blaze_rod,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+blue_dye,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+bone,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+bone_meal,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+book,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+bowl,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+brewer_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+brick,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+brown_dye,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+burn_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+charcoal,Ingredient,,,Ingredient,2012-02-29T00:00:00,1.2.0
+clay_ball,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+coal,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+coast_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+cocoa_beans,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+copper_ingot,Ingredient,,,Ingredient,2021-06-08T00:00:00,1.17.0
+creeper_banner_pattern,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+cyan_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+danger_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+diamond,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+disc_fragment,Ingredient,,,Ingredient,2022-06-07T00:00:00,1.19.0
+dragon_breath,Ingredient,,,Ingredient,2016-02-29T00:00:00,1.9.0
+dune_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+echo_shard,Ingredient,,,Ingredient,2022-06-07T00:00:00,1.19.0
+egg,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+emerald,Ingredient,,,Ingredient,2012-08-01T00:00:00,1.3.1
+enchanted_book,Ingredient,,,Ingredient,2012-12-20T00:00:00,1.4.6
+ender_eye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+ender_pearl,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+experience_bottle,Ingredient,,,Ingredient,2012-03-01T00:00:00,1.2.1
+explorer_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+eye_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+feather,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+fermented_spider_eye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+fire_charge,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+firework_star,Ingredient,,,Ingredient,2012-12-20T00:00:00,1.4.6
+flint,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+flower_banner_pattern,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+friend_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+ghast_tear,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+glass_bottle,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+glistering_melon_slice,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+globe_banner_pattern,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+glow_ink_sac,Ingredient,,,Ingredient,2021-06-08T00:00:00,1.17.0
+glowstone_dust,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+gold_ingot,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+gold_nugget,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+gray_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+green_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+gunpowder,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+heart_of_the_sea,Ingredient,,,Ingredient,2018-07-18T00:00:00,1.13.0
+heart_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+heartbreak_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+honeycomb,Ingredient,,,Ingredient,2019-12-10T00:00:00,1.15.0
+host_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+howl_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+ink_sac,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+iron_ingot,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+iron_nugget,Ingredient,,,Ingredient,2016-12-20T00:00:00,1.11.1
+lapis_lazuli,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+leather,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+light_blue_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+light_gray_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+lime_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+lingering_potion,Ingredient,,,Ingredient,2016-02-29T00:00:00,1.9.0
+magenta_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+magma_cream,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+miner_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+mojang_banner_pattern,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+mourner_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+nautilus_shell,Ingredient,,,Ingredient,2018-07-18T00:00:00,1.13.0
+nether_brick,Ingredient,,,Ingredient,2019-12-10T00:00:00,1.15.0
+nether_star,Ingredient,,,Ingredient,2012-10-25T00:00:00,1.4.2
+netherite_ingot,Ingredient,,,Ingredient,2020-06-23T00:00:00,1.16.0
+netherite_scrap,Ingredient,,,Ingredient,2020-06-23T00:00:00,1.16.0
+netherite_upgrade_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+orange_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+paper,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+phantom_membrane,Ingredient,,,Ingredient,2018-07-18T00:00:00,1.13.0
+piglin_banner_pattern,Ingredient,,,Ingredient,2020-06-23T00:00:00,1.16.0
+pink_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+plenty_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+popped_chorus_fruit,Ingredient,,,Ingredient,2016-02-29T00:00:00,1.9.0
+potion,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+prismarine_crystals,Ingredient,,,Ingredient,2014-09-02T00:00:00,1.8.0
+prismarine_shard,Ingredient,,,Ingredient,2014-09-02T00:00:00,1.8.0
+prize_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+pufferfish,Ingredient,,,Ingredient,2013-10-25T00:00:00,1.7.2
+purple_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+quartz,Ingredient,,,Ingredient,2013-03-13T00:00:00,1.5.0
+rabbit_foot,Ingredient,,,Ingredient,2014-09-02T00:00:00,1.8.0
+rabbit_hide,Ingredient,,,Ingredient,2014-09-02T00:00:00,1.8.0
+raiser_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+raw_copper,Ingredient,,,Ingredient,2021-06-08T00:00:00,1.17.0
+raw_gold,Ingredient,,,Ingredient,2021-06-08T00:00:00,1.17.0
+raw_iron,Ingredient,,,Ingredient,2018-07-18T00:00:00,1.17.0
+red_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+redstone,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+rib_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+scute,Ingredient,,,Ingredient,2018-07-18T00:00:00,1.13.0
+sentry_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+shaper_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+sheaf_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+shelter_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+shulker_shell,Ingredient,,,Ingredient,2016-11-14T00:00:00,1.11.0
+silence_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+skull_banner_pattern,Ingredient,,,Ingredient,2019-04-23T00:00:00,1.14.0
+skull_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+slime_ball,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+snort_pottery_sherd,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+snout_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+snowball,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+spider_eye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+spire_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+splash_potion,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+stick,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+string,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+sugar,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+tide_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+vex_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+ward_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+wayfinder_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+wheat,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+white_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+wild_armor_trim_smithing_template,Ingredient,,,Ingredient,2023-06-07T00:00:00,1.20.0
+yellow_dye,Ingredient,,,Ingredient,2011-11-18T00:00:00,1.0.0
+arrow,Tools & Armor,,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+axolotl_bucket,Tools & Armor,,Durability,Tool,2018-07-18T00:00:00,1.13.0
+bow,Tools & Armor,384.0,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+brush,Tools & Armor,64.0,Durability,Tool,2023-06-07T00:00:00,1.20.0
+bucket,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+bundle,Tools & Armor,,Durability,Tool,2021-06-08T00:00:00,1.17.0
+carrot_on_a_stick,Tools & Armor,25.0,Durability,Tool,2012-10-25T00:00:00,1.4.2
+chainmail_boots,Tools & Armor,195.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+chainmail_chestplate,Tools & Armor,240.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+chainmail_helmet,Tools & Armor,165.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+chainmail_leggings,Tools & Armor,225.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+clock,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+cod_bucket,Tools & Armor,,Durability,Tool,2018-07-18T00:00:00,1.13.0
+compass,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+crossbow,Tools & Armor,465.0,Durability,Weapon,2019-04-23T00:00:00,1.14.0
+diamond_axe,Tools & Armor,1561.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+diamond_boots,Tools & Armor,429.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+diamond_chestplate,Tools & Armor,528.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+diamond_helmet,Tools & Armor,363.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+diamond_hoe,Tools & Armor,1561.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+diamond_horse_armor,Tools & Armor,,Durability,Armor,2013-07-01T00:00:00,1.6.1
+diamond_leggings,Tools & Armor,495.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+diamond_pickaxe,Tools & Armor,1561.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+diamond_shovel,Tools & Armor,1561.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+diamond_sword,Tools & Armor,1561.0,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+elytra,Tools & Armor,432.0,Durability,Armor,2016-02-29T00:00:00,1.9.0
+firework_rocket,Tools & Armor,,Durability,Tool,2012-12-20T00:00:00,1.4.6
+fishing_rod,Tools & Armor,64.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+flint_and_steel,Tools & Armor,64.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+goat_horn,Tools & Armor,,Durability,Tool,2022-06-07T00:00:00,1.19.0
+golden_axe,Tools & Armor,32.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+golden_boots,Tools & Armor,91.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+golden_chestplate,Tools & Armor,112.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+golden_helmet,Tools & Armor,77.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+golden_hoe,Tools & Armor,32.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+golden_horse_armor,Tools & Armor,,Durability,Armor,2013-07-01T00:00:00,1.6.1
+golden_leggings,Tools & Armor,105.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+golden_pickaxe,Tools & Armor,32.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+golden_shovel,Tools & Armor,32.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+golden_sword,Tools & Armor,32.0,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+iron_axe,Tools & Armor,250.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+iron_boots,Tools & Armor,195.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+iron_chestplate,Tools & Armor,240.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+iron_helmet,Tools & Armor,165.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+iron_hoe,Tools & Armor,250.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+iron_horse_armor,Tools & Armor,,Durability,Armor,2013-07-01T00:00:00,1.6.1
+iron_leggings,Tools & Armor,225.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+iron_pickaxe,Tools & Armor,250.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+iron_shovel,Tools & Armor,250.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+iron_sword,Tools & Armor,250.0,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+lava_bucket,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+lead,Tools & Armor,,Durability,Tool,2013-07-01T00:00:00,1.6.1
+leather_boots,Tools & Armor,65.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+leather_chestplate,Tools & Armor,80.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+leather_helmet,Tools & Armor,55.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+leather_horse_armor,Tools & Armor,,Durability,Armor,2019-04-23T00:00:00,1.14.0
+leather_leggings,Tools & Armor,75.0,Durability,Armor,2011-11-18T00:00:00,1.0.0
+map,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_11,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_13,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_5,Tools & Armor,,Durability,Tool,2022-06-07T00:00:00,1.19.0
+music_disc_blocks,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_cat,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_chirp,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_far,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_mall,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_mellohi,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_otherside,Tools & Armor,,Durability,Tool,2021-11-30T00:00:00,1.18.0
+music_disc_pigstep,Tools & Armor,,Durability,Tool,2020-06-23T00:00:00,1.16.0
+music_disc_relic,Tools & Armor,,Durability,Tool,2023-06-07T00:00:00,1.20.0
+music_disc_stal,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_strad,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+music_disc_wait,Tools & Armor,,Durability,Tool,2012-11-14T00:00:00,1.4.4
+music_disc_ward,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+name_tag,Tools & Armor,,Durability,Tool,2013-07-01T00:00:00,1.6.1
+netherite_axe,Tools & Armor,2031.0,Durability,Tool,2020-06-23T00:00:00,1.16.0
+netherite_boots,Tools & Armor,481.0,Durability,Armor,2020-06-23T00:00:00,1.16.0
+netherite_chestplate,Tools & Armor,592.0,Durability,Armor,2020-06-23T00:00:00,1.16.0
+netherite_helmet,Tools & Armor,407.0,Durability,Armor,2020-06-23T00:00:00,1.16.0
+netherite_hoe,Tools & Armor,2031.0,Durability,Tool,2020-06-23T00:00:00,1.16.0
+netherite_leggings,Tools & Armor,555.0,Durability,Armor,2020-06-23T00:00:00,1.16.0
+netherite_pickaxe,Tools & Armor,2031.0,Durability,Tool,2020-06-23T00:00:00,1.16.0
+netherite_shovel,Tools & Armor,2031.0,Durability,Tool,2020-06-23T00:00:00,1.16.0
+netherite_sword,Tools & Armor,2031.0,Durability,Weapon,2020-06-23T00:00:00,1.16.0
+powder_snow_bucket,Tools & Armor,,Durability,Tool,2021-06-08T00:00:00,1.17.0
+pufferfish_bucket,Tools & Armor,,Durability,Tool,2018-07-18T00:00:00,1.13.0
+recovery_compass,Tools & Armor,,Durability,Tool,2022-06-07T00:00:00,1.19.0
+saddle,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+salmon_bucket,Tools & Armor,,Durability,Tool,2018-07-18T00:00:00,1.13.0
+shears,Tools & Armor,238.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+shield,Tools & Armor,336.0,Durability,Tool,2016-02-29T00:00:00,1.9.0
+spectral_arrow,Tools & Armor,,Durability,Weapon,2016-02-29T00:00:00,1.9.0
+spyglass,Tools & Armor,,Durability,Tool,2021-06-08T00:00:00,1.17.0
+stone_axe,Tools & Armor,131.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+stone_hoe,Tools & Armor,131.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+stone_pickaxe,Tools & Armor,131.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+stone_shovel,Tools & Armor,131.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+stone_sword,Tools & Armor,131.0,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+tadpole_bucket,Tools & Armor,,Durability,Tool,2022-06-07T00:00:00,1.19.0
+tipped_arrow,Tools & Armor,,Durability,Weapon,2016-02-29T00:00:00,1.9.0
+totem_of_undying,Tools & Armor,,Durability,Tool,2016-11-14T00:00:00,1.11.0
+trident,Tools & Armor,250.0,Durability,Weapon,2018-07-18T00:00:00,1.13.0
+tropical_fish_bucket,Tools & Armor,,Durability,Tool,2018-07-18T00:00:00,1.13.0
+turtle_helmet,Tools & Armor,275.0,Durability,Armor,2018-07-18T00:00:00,1.13.0
+warped_fungus_on_a_stick,Tools & Armor,100.0,Durability,Tool,2020-06-23T00:00:00,1.16.0
+water_bucket,Tools & Armor,,Durability,Tool,2011-11-18T00:00:00,1.0.0
+wooden_axe,Tools & Armor,59.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+wooden_hoe,Tools & Armor,59.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+wooden_pickaxe,Tools & Armor,59.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+wooden_shovel,Tools & Armor,59.0,Durability,Tool,2011-11-18T00:00:00,1.0.0
+wooden_sword,Tools & Armor,59.0,Durability,Weapon,2011-11-18T00:00:00,1.0.0
+writable_book,Tools & Armor,,Durability,Tool,2012-08-01T00:00:00,1.3.1
+written_book,Tools & Armor,,Durability,Tool,2012-08-01T00:00:00,1.3.1
+nether_wart_block,Landscape Block,,,Nature,2016-06-08T00:00:00,1.10.0
+netherrack,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+oak_leaves,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+oak_log,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+obsidian,Landscape Block,,,Stone,2011-11-18T00:00:00,1.0.0
+froglight,Landscape Block,,,Nature,2022-06-07T00:00:00,1.19.0
+orange_terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+packed_ice,Landscape Block,,,Land,2013-10-25T00:00:00,1.7.2
+podzol,Landscape Block,,,Land,2013-10-25T00:00:00,1.7.2
+pointed_dripstone,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+powder_snow,Landscape Block,,,Land,2021-06-08T00:00:00,1.17.0
+prismarine,Landscape Block,,,Stone,2014-09-02T00:00:00,1.8.0
+red_mushroom_block,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+red_sand,Landscape Block,,,Land,2013-10-25T00:00:00,1.7.2
+red_terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+redstone_ore,Landscape Block,,,Ore,2011-11-18T00:00:00,1.0.0
+reinforced_deepslate,Landscape Block,,,Stone,2022-06-07T00:00:00,1.19.0
+rooted_dirt,Landscape Block,,,Land,2021-06-08T00:00:00,1.17.0
+sand,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+sculk,Landscape Block,,,Land,2022-06-07T00:00:00,1.19.0
+sculk_catalyst,Landscape Block,,,Generate,2022-06-07T00:00:00,1.19.0
+sculk_sensor,Landscape Block,,,Generate,2022-06-07T00:00:00,1.19.0
+sculk_shrieker,Landscape Block,,,Generate,2022-06-07T00:00:00,1.19.0
+sculk_vein,Landscape Block,,,Land,2022-06-07T00:00:00,1.19.0
+shroomlight,Landscape Block,,,Nature,2020-06-23T00:00:00,1.16.0
+small_amethyst_bud,Landscape Block,,,Nature,2021-06-08T00:00:00,1.17.0
+snow,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+soul_fire,Landscape Block,,,Generate,2020-06-23T00:00:00,1.16.0
+soul_sand,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+soul_soil,Landscape Block,,,Land,2020-06-23T00:00:00,1.16.0
+spawner,Landscape Block,,,Generate,2011-11-18T00:00:00,1.0.0
+sponge,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+spruce_leaves,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+spruce_log,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+stone,Landscape Block,,,Stone,2011-11-18T00:00:00,1.0.0
+suspicious_gravel,Landscape Block,,,Land,2023-06-07T00:00:00,1.20.0
+suspicious_sand,Landscape Block,,,Land,2023-06-07T00:00:00,1.20.0
+terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+tube_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+tuff,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+warped_nylium,Landscape Block,,,Nature,2020-06-23T00:00:00,1.16.0
+warped_stem,Landscape Block,,,Nature,2020-06-23T00:00:00,1.16.0
+warped_wart_block,Landscape Block,,,Nature,2020-06-23T00:00:00,1.16.0
+water,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+white_terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+yellow_terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+acacia_leaves,Landscape Block,,,Nature,2013-10-25T00:00:00,1.7.2
+acacia_log,Landscape Block,,,Nature,2013-10-25T00:00:00,1.7.2
+amethyst_block,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+amethyst_cluster,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+ancient_debris,Landscape Block,,,Ore,2020-06-23T00:00:00,1.16.0
+andesite,Landscape Block,,,Stone,2014-09-02T00:00:00,1.8.0
+azalea_leaves,Landscape Block,,,Nature,2021-06-08T00:00:00,1.17.0
+basalt,Landscape Block,,,Stone,2020-06-23T00:00:00,1.16.0
+bedrock,Landscape Block,,,Stone,2011-11-18T00:00:00,1.0.0
+bee_nest,Landscape Block,,,Nature,2019-12-10T00:00:00,1.15.0
+bell,Landscape Block,,,Generate,2019-04-23T00:00:00,1.14.0
+birch_leaves,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+birch_log,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+blackstone,Landscape Block,,,Stone,2020-06-23T00:00:00,1.16.0
+blue_ice,Landscape Block,,,Land,2018-07-18T00:00:00,1.13.0
+bone_block,Landscape Block,,,Generate,2016-06-08T00:00:00,1.10.0
+brain_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+brown_mushroom_block,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+brown_terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+bubble_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+budding_amethyst,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+calcite,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+cherry_leaves,Landscape Block,,,Nature,2023-06-07T00:00:00,1.20.0
+cherry_log,Landscape Block,,,Nature,2023-06-07T00:00:00,1.20.0
+chorus_plant,Landscape Block,,,Nature,2016-02-29T00:00:00,1.9.0
+clay,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+coal_ore,Landscape Block,,,Ore,2011-11-18T00:00:00,1.0.0
+coarse_dirt,Landscape Block,,,Land,2013-10-25T00:00:00,1.7.2
+cobbled_deepslate,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+cobblestone,Landscape Block,,,Stone,2011-11-18T00:00:00,1.0.0
+cobweb,Landscape Block,,,Generate,2011-11-18T00:00:00,1.0.0
+copper_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+crimson_nylium,Landscape Block,,,Land,2020-06-23T00:00:00,1.16.0
+crimson_stem,Landscape Block,,,Nature,2020-06-23T00:00:00,1.16.0
+crying_obsidian,Landscape Block,,,Stone,2020-06-23T00:00:00,1.16.0
+dark_oak_leaves,Landscape Block,,,Nature,2013-10-25T00:00:00,1.7.2
+dark_oak_log,Landscape Block,,,Nature,2013-10-25T00:00:00,1.7.2
+dead_brain_coral_block,Landscape Block,,,Nature,2019-12-10T00:00:00,1.13.0
+dead_bubble_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+dead_fire_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+dead_horn_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+dead_tube_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+deepslate,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+deepslate_coal_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_copper_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_diamond_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_emerald_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_gold_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_iron_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_lapis_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_redstone_ore,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+deepslate_tiles,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+diamond_ore,Landscape Block,,,Ore,2011-11-18T00:00:00,1.0.0
+diorite,Landscape Block,,,Stone,2014-09-02T00:00:00,1.8.0
+dirt,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+dirt_path,Landscape Block,,,Land,2016-02-29T00:00:00,1.9.0
+dragon_egg,Landscape Block,,,Generate,2011-11-18T00:00:00,1.0.0
+dripstone_block,Landscape Block,,,Stone,2021-06-08T00:00:00,1.17.0
+emerald_ore,Landscape Block,,,Ore,2012-08-01T00:00:00,1.3.1
+end_portal_frame,Landscape Block,,,Generate,2011-11-18T00:00:00,1.0.0
+end_stone,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+farmland,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+fire,Landscape Block,,,Generate,2011-11-18T00:00:00,1.0.0
+fire_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+frogspawn,Landscape Block,,,Nature,2022-06-07T00:00:00,1.19.0
+frosted_ice,Landscape Block,,,Land,2016-02-29T00:00:00,1.9.0
+gilded_blackstone,Landscape Block,,,Stone,2020-06-23T00:00:00,1.16.0
+glowstone,Landscape Block,,,Stone,2011-11-18T00:00:00,1.0.0
+gold_ore,Landscape Block,,,Ore,2011-11-18T00:00:00,1.0.0
+granite,Landscape Block,,,Stone,2014-09-02T00:00:00,1.8.0
+grass_block,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+gravel,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+horn_coral_block,Landscape Block,,,Nature,2018-07-18T00:00:00,1.13.0
+ice,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+iron_ore,Landscape Block,,,Ore,2011-11-18T00:00:00,1.0.0
+jungle_leaves,Landscape Block,,,Nature,2012-03-01T00:00:00,1.2.1
+jungle_log,Landscape Block,,,Nature,2012-03-01T00:00:00,1.2.1
+lapis_ore,Landscape Block,,,Ore,2011-11-18T00:00:00,1.0.0
+large_amethyst_bud,Landscape Block,,,Ore,2021-06-08T00:00:00,1.17.0
+lava,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+light_gray_terracotta,Landscape Block,,,Land,2013-07-01T00:00:00,1.6.1
+magma,Landscape Block,,,Stone,2016-06-08T00:00:00,1.10.0
+mangrove_leaves,Landscape Block,,,Nature,2022-06-07T00:00:00,1.19.0
+mangrove_log,Landscape Block,,,Nature,2022-06-07T00:00:00,1.19.0
+medium_amethyst_bud,Landscape Block,,,Nature,2021-06-08T00:00:00,1.17.0
+moss_block,Landscape Block,,,Nature,2021-06-08T00:00:00,1.17.0
+mud,Landscape Block,,,Land,2022-06-07T00:00:00,1.19.0
+muddy_mangrove_roots,Landscape Block,,,Nature,2022-06-07T00:00:00,1.19.0
+mushroom_block,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+mushroom_stem,Landscape Block,,,Nature,2011-11-18T00:00:00,1.0.0
+mycelium,Landscape Block,,,Land,2011-11-18T00:00:00,1.0.0
+nether_gold_ore,Landscape Block,,,Ore,2020-06-23T00:00:00,1.16.0
+nether_quartz_ore,Landscape Block,,,Ore,2013-03-13T00:00:00,1.5.0
+acacia_door,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+acacia_planks,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+acacia_trapdoor,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+activator_rail,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+anvil,Man-Made Block,,,Man-Made,2023-03-13T00:00:00,1.4.2
+bamboo_block,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+bamboo_door,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+bamboo_fence,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+bamboo_fence_gate,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+bamboo_mosaic,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+bamboo_planks,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+bamboo_trapdoor,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+barrel,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+beacon,Man-Made Block,,,Man-Made,2012-10-25T00:00:00,1.4.2
+beehive,Man-Made Block,,,Man-Made,2019-12-10T00:00:00,1.15.0
+birch_door,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+birch_planks,Man-Made Block,,,Man-Made,2012-03-22T00:00:00,1.2.4
+birch_trapdoor,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+black_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+black_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+black_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+black_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+black_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+black_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+blast_furnace,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+blue_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+blue_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+blue_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+blue_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+blue_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+blue_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+bookshelf,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+brewing_stand,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+bricks,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+brown_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+brown_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+brown_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+brown_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+brown_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+calibrated_sculk_sensor,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+campfire,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+candle,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+cartography_table,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+carved_pumpkin,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+cauldron,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+chain,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+cherry_door,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+cherry_planks,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+cherry_trapdoor,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+chiseled_bookshelf,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+chiseled_deepslate,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+chiseled_nether_bricks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+chiseled_polished_blackstone,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+chiseled_quartz_block,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+chiseled_red_sandstone,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+chiseled_sandstone,Man-Made Block,,,Man-Made,2012-03-01T00:00:00,1.2.1
+chiseled_stone_bricks,Man-Made Block,,,Man-Made,2012-03-01T00:00:00,1.2.1
+coal_block,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+comparator,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+composter,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+conduit,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+copper_block,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+cracked_deepslate_bricks,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+cracked_deepslate_tiles,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+cracked_nether_bricks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+cracked_polished_blackstone_bricks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+cracked_stone_bricks,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+crafting_table,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+crimson_door,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+crimson_planks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+crimson_trapdoor,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+cut_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+cut_red_sandstone,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+cut_sandstone,Man-Made Block,,,Man-Made,2012-03-01T00:00:00,1.2.1
+cyan_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+cyan_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+cyan_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+cyan_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+cyan_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+cyan_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+dark_oak_door,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+dark_oak_planks,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+dark_oak_trapdoor,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+dark_prismarine,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+daylight_detector,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+deepslate_bricks,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+detector_rail,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+diamond_block,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+dispenser,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+dried_kelp_block,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+dropper,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+emerald_block,Man-Made Block,,,Man-Made,2012-08-01T00:00:00,1.3.1
+enchanting_table,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+end_rod,Man-Made Block,,,Man-Made,2016-02-29T00:00:00,1.9.0
+end_stone_bricks,Man-Made Block,,,Man-Made,2016-02-29T00:00:00,1.9.0
+exposed_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+exposed_cut_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+fletching_table,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+flower_pot,Man-Made Block,,,Man-Made,2012-10-25T00:00:00,1.4.2
+furnace,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+glass,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+glass_pane,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+glow_item_frame,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+gold_block,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+gray_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+gray_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+gray_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+gray_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+gray_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+gray_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+green_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+green_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+green_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+green_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+green_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+green_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+grindstone,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+hay_block,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+honey_block,Man-Made Block,,,Man-Made,2019-12-10T00:00:00,1.15.0
+honeycomb_block,Man-Made Block,,,Man-Made,2019-12-10T00:00:00,1.15.0
+hopper,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+iron_bars,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+iron_block,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+iron_door,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+iron_trapdoor,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+item_frame,Man-Made Block,,,Man-Made,2012-10-25T00:00:00,1.4.2
+jack_o_lantern,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+jukebox,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+jungle_door,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+jungle_planks,Man-Made Block,,,Man-Made,2012-03-22T00:00:00,1.2.4
+jungle_trapdoor,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+ladder,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+lantern,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+lapis_block,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+lectern,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+lever,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+light_blue_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+light_blue_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+light_blue_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+light_blue_stained_glass,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+light_blue_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+light_blue_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+light_gray_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+light_gray_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+light_gray_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+light_gray_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+light_gray_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+lightning_rod,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+lime_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+lime_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+lime_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+lime_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+lime_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+lime_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+lodestone,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+loom,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+magenta_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+magenta_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+magenta_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+magenta_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+magenta_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+magenta_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+mangrove_door,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+mangrove_planks,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+mangrove_trapdoor,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+mossy_cobblestone,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+mossy_stone_bricks,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+mud_bricks,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+nether_bricks,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+netherite_block,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+note_block,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+oak_door,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+oak_planks,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+oak_trapdoor,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+observer,Man-Made Block,,,Man-Made,2016-11-14T00:00:00,1.11.0
+orange_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+orange_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+orange_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+orange_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+orange_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+oxidized_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+oxidized_cut_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+packed_mud,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+pink_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+pink_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+pink_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+pink_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+pink_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+pink_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+piston,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+piston_sticky,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+polished_andesite,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+polished_basalt,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+polished_blackstone,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+polished_blackstone_bricks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+polished_deepslate,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+polished_diorite,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+polished_granite,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+powered_rail,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+prismarine_bricks,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+purple_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+purple_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+purple_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+purple_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+purple_terracotta,Man-Made Block,,,Man-Made,2013-07-01T00:00:00,1.6.1
+purple_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+purpur_block,Man-Made Block,,,Man-Made,2016-02-29T00:00:00,1.9.0
+purpur_pillar,Man-Made Block,,,Man-Made,2016-02-29T00:00:00,1.9.0
+quartz_block,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+quartz_bricks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+quartz_pillar,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+rail,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+raw_copper_block,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+raw_gold_block,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+raw_iron_block,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+red_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+red_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+red_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+red_nether_bricks,Man-Made Block,,,Man-Made,2016-06-08T00:00:00,1.10.0
+red_sandstone,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+red_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+red_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+redstone_block,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+redstone_lamp,Man-Made Block,,,Man-Made,2012-03-01T00:00:00,1.2.1
+redstone_torch,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+repeater,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+respawn_anchor,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+sandstone,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+scaffolding,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+sea_lantern,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+shulker_box,Man-Made Block,,,Man-Made,2016-11-14T00:00:00,1.11.0
+slime_block,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+smithing_table,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+smoker,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+smooth_basalt,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+smooth_stone,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+smooth_stone_slab,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+soul_campfire,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+soul_lantern,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+soul_torch,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+spruce_door,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+spruce_planks,Man-Made Block,,,Man-Made,2012-03-22T00:00:00,1.2.4
+spruce_trapdoor,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stone_bricks,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+stonecutter,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+stripped_acacia_log,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stripped_bamboo_block,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+stripped_birch_log,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stripped_cherry_log,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+stripped_crimson_stem,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+stripped_dark_oak_log,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stripped_jungle_log,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stripped_mangrove_log,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+stripped_oak_log,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stripped_spruce_log,Man-Made Block,,,Man-Made,2018-07-18T00:00:00,1.13.0
+stripped_warped_stem,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+target,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+tinted_glass,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+tnt,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+torch,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+tripwire,Man-Made Block,,,Man-Made,2012-08-01T00:00:00,1.3.1
+tripwire_hook,Man-Made Block,,,Man-Made,2012-08-01T00:00:00,1.3.1
+warped_door,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+warped_planks,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+warped_trapdoor,Man-Made Block,,,Man-Made,2020-06-23T00:00:00,1.16.0
+weathered_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+weathered_cut_copper,Man-Made Block,,,Man-Made,2021-06-08T00:00:00,1.17.0
+white_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+white_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+white_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+white_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+white_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+yellow_concrete,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+yellow_concrete_powder,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+yellow_glazed_terracotta,Man-Made Block,,,Man-Made,2017-06-07T00:00:00,1.12.0
+yellow_stained_glass,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+yellow_wool,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+armor_stand,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+bell,Man-Made Block,,,Man-Made,2019-04-23T00:00:00,1.14.0
+chest_minecart,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+end_crystal,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+furnace_minecart,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+hopper_minecart,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+minecart,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+painting,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+tnt_minecart,Man-Made Block,,,Man-Made,2013-03-13T00:00:00,1.5.0
+banner,Man-Made Block,,,Man-Made,2014-09-02T00:00:00,1.8.0
+bed,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+boat,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+chest,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+chest_boat,Man-Made Block,,,Man-Made,2022-06-07T00:00:00,1.19.0
+decorated_pot,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+sign,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+hanging_sign,Man-Made Block,,,Man-Made,2023-06-07T00:00:00,1.20.0
+black_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+blue_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+brown_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+cyan_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+gray_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+green_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+light_blue_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+light_gray_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+lime_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+magenta_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+orange_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+pink_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+purple_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+red_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+white_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+yellow_stained_glass_pane,Man-Made Block,,,Man-Made,2013-10-25T00:00:00,1.7.2
+redstone_dust,Man-Made Block,,,Man-Made,2011-11-18T00:00:00,1.0.0
+"3.
+.",Flora,30.0,Max Growth Time,Automatic,2013-10-25T00:00:00,1.7.2
+allium,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+azalea,Flora,30.0,Max Growth Time,Automatic,2021-06-08T00:00:00,1.17.0
+azure_bluet,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+bamboo,Flora,4.0,Max Growth Time,Automatic,2019-04-23T00:00:00,1.14.0
+beetroots,Flora,20.0,Max Growth Time,Automatic,2022-06-07T00:00:00,1.19.0
+big_dripleaf,Flora,,Max Growth Time,Static,2021-06-08T00:00:00,1.17.0
+birch_sapling,Flora,30.0,Max Growth Time,Automatic,2018-07-18T00:00:00,1.13.0
+blue_orchid,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+brain_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+brain_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+brown_mushroom,Flora,,Max Growth Time,Assisted,2011-11-18T00:00:00,1.0.0
+bubble_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+bubble_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+cactus,Flora,18.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+carrots,Flora,30.0,Max Growth Time,Automatic,2012-10-25T00:00:00,1.4.2
+cave_vines,Flora,,Max Growth Time,Automatic,2021-06-08T00:00:00,1.17.0
+cherry_sapling,Flora,30.0,Max Growth Time,Automatic,2020-06-23T00:00:00,1.13.0
+chorus_flower,Flora,,Max Growth Time,Automatic,2016-02-29T00:00:00,1.9.0
+cocoa,Flora,6.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+cornflower,Flora,,Max Growth Time,Static,2019-04-23T00:00:00,1.14.0
+crimson_fungus,Flora,,Max Growth Time,Assisted,2020-06-23T00:00:00,1.16.0
+crimson_roots,Flora,,Max Growth Time,Static,2021-06-08T00:00:00,1.16.0
+dandelion,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dark_oak_sapling,Flora,30.0,Max Growth Time,Automatic,2013-10-25T00:00:00,1.7.2
+dead_brain_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_brain_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_bubble_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_bubble_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_bush,Flora,,Max Growth Time,Static,2011-11-18T00:00:00,1.0.0
+dead_fire_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_fire_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_horn_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_horn_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_tube_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+dead_tube_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+fern,Flora,,Max Growth Time,Static,2013-06-25T00:00:00,1.6.0
+fire_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+fire_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+glow_lichen,Flora,,Max Growth Time,Static,2021-06-08T00:00:00,1.17.0
+grass,Flora,,Max Growth Time,Static,2011-11-18T00:00:00,1.0.0
+hanging_roots,Flora,,Max Growth Time,Static,2021-06-08T00:00:00,1.17.0
+horn_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+horn_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+jungle_sapling,Flora,30.0,Max Growth Time,Automatic,2018-07-18T00:00:00,1.2.1
+kelp,Flora,,Max Growth Time,Automatic,2018-07-18T00:00:00,1.13.0
+large_fern,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+lilac,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+lily_of_the_valley,Flora,,Max Growth Time,Static,2019-04-23T00:00:00,1.14.0
+lily_pad,Flora,,Max Growth Time,Static,2011-11-18T00:00:00,1.0.0
+mangrove_roots,Flora,,Max Growth Time,Static,2022-06-07T00:00:00,1.19.0
+melon,Flora,31.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+nether_sprouts,Flora,,Max Growth Time,Static,2020-06-23T00:00:00,1.16.0
+nether_wart,Flora,35.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+oak_sapling,Flora,30.0,Max Growth Time,Automatic,2021-06-08T00:00:00,1.0.0
+orange_tulip,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+oxeye_daisy,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+peony,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+pink_petals,Flora,,Max Growth Time,Static,2023-06-07T00:00:00,1.20.0
+pink_petals_stem,Flora,,Max Growth Time,Static,2023-06-07T00:00:00,1.20.0
+pink_tulip,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+pitcher_plant,Flora,,Max Growth Time,Automatic,2023-06-07T00:00:00,1.20.0
+poppy,Flora,,Max Growth Time,Static,2011-11-18T00:00:00,1.0.0
+potatoes,Flora,30.0,Max Growth Time,Automatic,2012-10-25T00:00:00,1.4.2
+pumpkin,Flora,31.0,Max Growth Time,Automatic,2018-07-18T00:00:00,1.13.0
+red_mushroom,Flora,,Max Growth Time,Assisted,2011-11-18T00:00:00,1.0.0
+red_tulip,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+rose_bush,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+sea_pickle,Flora,,Max Growth Time,Assisted,2018-07-18T00:00:00,1.13.0
+seagrass,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+small_dripleaf,Flora,,Max Growth Time,Static,2021-06-08T00:00:00,1.17.0
+spore_blossom,Flora,,Max Growth Time,Static,2021-06-08T00:00:00,1.17.0
+spruce_sapling,Flora,30.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+sugar_cane,Flora,18.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+sunflower,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+sweet_berry_bush,Flora,10.0,Max Growth Time,Automatic,2019-04-23T00:00:00,1.14.0
+tall_grass,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+tall_seagrass,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+torchflower,Flora,,Max Growth Time,Automatic,2023-06-07T00:00:00,1.20.0
+tube_coral,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+tube_coral_fan,Flora,,Max Growth Time,Static,2018-07-18T00:00:00,1.13.0
+twisting_vines,Flora,,Max Growth Time,Automatic,2020-06-23T00:00:00,1.16.0
+vine,Flora,,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+warped_fungus,Flora,,Max Growth Time,Static,2020-06-23T00:00:00,1.16.0
+warped_roots,Flora,,Max Growth Time,Static,2020-06-23T00:00:00,1.16.0
+weeping_vines,Flora,,Max Growth Time,Automatic,2020-06-23T00:00:00,1.16.0
+wheat,Flora,30.0,Max Growth Time,Automatic,2011-11-18T00:00:00,1.0.0
+white_tulip,Flora,,Max Growth Time,Static,2013-10-25T00:00:00,1.7.2
+wither_rose,Flora,,Max Growth Time,Static,2019-04-23T00:00:00,1.14.0
+mangrove_propagule,Flora,30.0,Max Growth Time,Automatic,2022-06-07T00:00:00,1.19.0
